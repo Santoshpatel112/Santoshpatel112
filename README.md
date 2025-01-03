@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-my name is santosh patel prsuing btech from abes engineering college  ghazibad with computer science and engineering with data science
+My name is Santosh Patel, and I am pursuing a B.Tech in Computer Science and Engineering with a specialization in Data Science from ABES Engineering College, Ghaziabad.
 
 
 ## 🔗 Links
@@ -14,10 +14,9 @@ my name is santosh patel prsuing btech from abes engineering college  ghazibad w
 ## Details
 👩‍💻 I'm currently A project related to full stack
 
-🧠 I'm currently learning. React and DSA with java
+🧠 I'm currently learning. MERN-STACK and DSA with java
 
 👯‍♀️ I'm looking to Contribute in Open source
-🤔 I'm looking for help with...
 
 💬 Ask me about...
 
