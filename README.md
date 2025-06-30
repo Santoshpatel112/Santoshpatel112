@@ -100,19 +100,6 @@ Javascript, HTML, CSS ,React ,Competitive Programming
 ![](https://github-contributor-stats.vercel.app/api?username=santoshpatel112&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-
-
-![Logo](https://tse4.mm.bing.net/th?id=OIP.YT1lWiJjSP91kmcCwdrTIQHaDf&pid=Api&P=0&h=180)
-
-
-
-## Tech Stack
-
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express
-
-
 <!---
 Santoshpatel112/Santoshpatel112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
