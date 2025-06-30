@@ -64,21 +64,6 @@
   </a>
 </p>
 
-<!-- GitHub Stats -->
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santoshpatel112&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=santoshpatel112&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santoshpatel112&" alt="GitHub Streak" />
-</p>
-
-
-
 ## 🛠 Skills
 
 - 💻 **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS  
