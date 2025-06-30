@@ -77,9 +77,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=santoshpatel112&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/santoshpatel112/santoshpatel112/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
 
 # 📊 GitHub Stats:
