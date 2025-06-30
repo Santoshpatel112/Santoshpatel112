@@ -77,6 +77,10 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santoshpatel112&" alt="GitHub Streak" />
 </p>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/santoshpatel112/santoshpatel112/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
 
 ## 🛠 Skills
 Javascript, HTML, CSS ,React ,Competitive Programming
