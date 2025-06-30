@@ -10,7 +10,7 @@
 - 💬 **Ask me about:** React, Node.js, MongoDB, Express ,Cloud, Hackathons  
 - 📫 **How to reach me:** [Email](mailto:santoshpatelvns5@gmail.com) or [LinkedIn](https://www.linkedin.com/in/santosh-patel112/)  
 - 😄 **Fun fact:** I build late at night, fix bugs in the morning ☕  
-- 🧑‍💻 **Currently exploring:** DevOps tools, APIs, and scalable architectures
+- 🧑‍💻 **Currently exploring:** Cloud, APIs, and scalable architectures
 
 ## 🔗 I'm a Developer and Hackathon Enthusiast 🚀
 
@@ -89,6 +89,8 @@
 - 🧠 **CS Fundamentals:** Data Structures & Algorithms  
 - ⚔️ **Competitive Programming:** LeetCode, CodeChef  
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=santoshpatel112&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 # 📊 GitHub Stats:
