@@ -77,14 +77,18 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santoshpatel112&" alt="GitHub Streak" />
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/santoshpatel112/santoshpatel112/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS ,React ,Competitive Programming
+
+- 💻 **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS  
+- ⚙️ **Backend:** Node.js, Express.js  
+- 🗃️ **Database:** MongoDB, Firebase  
+- 🌐 **Other:** REST APIs, JWT Authentication, Razorpay Integration, EmailJS  
+- ☁️ **Cloud & Tools:** AWS, Git, GitHub, Vercel  
+- 🧠 **CS Fundamentals:** Data Structures & Algorithms  
+- ⚔️ **Competitive Programming:** LeetCode, CodeChef  
+
 
 
 # 📊 GitHub Stats:
