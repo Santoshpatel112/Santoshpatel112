@@ -18,16 +18,23 @@
 **Proud contributor to the Open Source community and Holopin badge collector!**
 
 <p align="center">
-    [![@YOUR_HOLOPIN_USERNAME's Holopin board](https://holopin.me/YOUR_HOLOPIN_USERNAME)](https://holopin.io/@YOUR_HOLOPIN_USERNAME)
+    <a href="https://holopin.io/@santoshpatel112">
+        <img src="https://holopin.me/santoshpatel112" alt="@santoshpatel112's Holopin board" />
+    </a>
     <br>
-    <img src="https://img.shields.io/badge/Open%20Source-Contributor-000000?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source Contributor" />
-    <img src="https://img.shields.io/badge/Hacktoberfest%20Participant-2025-pink?style=for-the-badge&logo=github&logoColor=white" alt="Hacktoberfest 2025 Participant" />
+    <a href="https://hacktoberfest.com/profile/" target="_blank">
+        <img src="https://img.shields.io/badge/Hacktoberfest%20Profile-View%20My%20Stats-pink?style=for-the-badge&logo=markdown&logoColor=white" alt="Hacktoberfest Profile" />
+    </a>
+    <a href="https://holopin.io/@santoshpatel112#badges" target="_blank">
+        <img src="https://img.shields.io/badge/Holopin%20Collection-Full%20View-orange?style=for-the-badge&logo=npm&logoColor=white" alt="Holopin Collection" />
+    </a>
 </p>
+<br>
 
 ---
 
 ## 📊 Detailed Activity Overview 📈
-### 📊 Commit Streak & Contribution History (The Green Grid)
+### 📊 Commit Streak & Contribution History (The Striker Board)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=santoshpatel112&theme=dark&hide_border=false)
 
 ### 📈 Daily Contribution Graph
