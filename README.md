@@ -34,6 +34,7 @@
 ---
 
 ## 📊 Detailed Activity Overview 📈
+
 ### 📊 Commit Streak & Contribution History (The Striker Board)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=santoshpatel112&theme=dark&hide_border=false)
 
@@ -90,6 +91,9 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
+  <a href="https://vercel.com/docs/nextjs" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+  </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
@@ -99,13 +103,16 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
 ## 🛠 Skills
 
-- 💻 **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS  
+- 💻 **Frontend:** HTML, CSS, JavaScript, **TypeScript**, React.js, **Next.js**, Tailwind CSS  
 - ⚙️ **Backend:** Node.js, Express.js  
 - 🗃️ **Database:** MongoDB, Firebase  
 - 🌐 **Other:** REST APIs, JWT Authentication, Razorpay Integration, EmailJS  
