@@ -1,25 +1,39 @@
-# 💫 Hi 👋, I'm Santosh Patel  
+# 💫 Hi 👋, I'm Santosh Patel 
 **A passionate Full-Stack Developer | Cloud Enthusiast | Open Source Contributor from India**
 
 📩 **Email Me:** santoshpatelvns5@gmail.com – For Collaboration, Projects, or Just to Connect 😊
 
-- 🔭 **I’m currently working on:** AAHAR -Sustainable development with financial aid (MERN Stack)  
+- 🔭 **I’m currently working on:** AAHAR -Sustainable development with financial aid (MERN Stack)  
 - 🌱 **I’m currently learning:** Advanced DSA & Cloud Technologies (AWS)  
-- 👯 **I’m looking to collaborate on:** Open-source MERN/Hackethon   
+- 👯 **I’m looking to collaborate on:** Open-source MERN/Hackethon  
 - 🤝 **I’m open to help with:** Web dev issues, Hackathon teaming, and Project  
 - 💬 **Ask me about:** React, Node.js, MongoDB, Express ,Cloud, Hackathons  
 - 📫 **How to reach me:** [Email](mailto:santoshpatelvns5@gmail.com) or [LinkedIn](https://www.linkedin.com/in/santosh-patel112/)  
 - 😄 **Fun fact:** I build late at night, fix bugs in the morning ☕  
 - 🧑‍💻 **Currently exploring:** Cloud, APIs, and scalable architectures
 
-## 🔗 I'm a Developer and Hackathon Enthusiast 🚀
+---
 
+## 🏆 Hacktoberfest & Open Source Achievements 🏅
+**Proud contributor to the Open Source community and Holopin badge collector!**
+
+<p align="center">
+    [![@YOUR_HOLOPIN_USERNAME's Holopin board](https://holopin.me/YOUR_HOLOPIN_USERNAME)](https://holopin.io/@YOUR_HOLOPIN_USERNAME)
+    <br>
+    <img src="https://img.shields.io/badge/Open%20Source-Contributor-000000?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source Contributor" />
+    <img src="https://img.shields.io/badge/Hacktoberfest%20Participant-2024-pink?style=for-the-badge&logo=github&logoColor=white" alt="Hacktoberfest 2024 Participant" />
+</p>
+
+---
+
+## 🔗 I'm a Developer and Hackathon Enthusiast 🚀
 
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santosh-patel-9202492a4/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Santoshp3259330)
 
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -64,6 +78,8 @@
   </a>
 </p>
 
+---
+
 ## 🛠 Skills
 
 - 💻 **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS  
@@ -74,15 +90,26 @@
 - 🧠 **CS Fundamentals:** Data Structures & Algorithms  
 - ⚔️ **Competitive Programming:** LeetCode, CodeChef  
 
+---
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=santoshpatel112&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+---
 
+## 📊 Contribution Activity
 
-# 📊 GitHub Stats:
+### 📈 Detailed Contribution Graph
+<p align="center">
+    <img src="https://activity-graph.vercel.app/graph?username=santoshpatel112&theme=react&hide_border=true&point=FFFFFF&area=FFFFFF" alt="Santosh Patel's Contribution Graph" />
+</p>
+
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=santoshpatel112&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 ![](https://github-readme-stats.vercel.app/api?username=santoshpatel112&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=santoshpatel112&theme=dark&hide_border=false)
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/santosh-patel112)  
@@ -93,12 +120,5 @@
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
 ### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=santoshpatel112&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-<!---
-Santoshpatel112/Santoshpatel112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
